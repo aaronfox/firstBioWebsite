@@ -1,0 +1,106 @@
+.navbar-brand {
+  font-family: 'Bungee Shade', Serif;
+  color: #c93c3c!important;
+}
+
+body {
+  margin-top: 100px;
+  background: url(https://s-media-cache-ak0.pinimg.com/736x/8c/36/37/8c3637f298cb612868d8c12ba86d288a.jpg) no-repeat center center;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#top {
+  margin-top: -50px;
+  /*margin: auto;*/
+  /*width:80vw;*/
+  font-family: 'Abel', Serif;
+  text-align: center;
+  color: #f2efef;
+  background-color: #424040;
+  /*border-radius: 10%;*/
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 300%;
+  text-align: center;
+  /*color: TODO add color;*/
+}
+
+p {
+  font-size: 150%;
+}
+
+.divider {
+  background-color: #424040;
+  border-top: 2px dashed #8c8b8b;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#profpic {
+  border-radius: 50%;
+  max-width: 50%;
+  border-style: double;
+  border-color: black;
+  border-width: 10px;
+}
+
+a.anchorAbout {
+  /* TODO figure out how to get buttons to go to right spot on page*/
+  
+}
+
+#Portfolio {
+  /*margin: auto;
+  width:80vw;*/
+  font-family: 'Abel', Serif;
+  text-align: center;
+  color: #f2efef;
+  background-color: #424040;
+  /*border-radius: 10%;*/
+  margin-top: 50px;
+}
+
+table, tr,
+th {
+  border: 10px solid #424040;
+}
+
+#Contact {
+  /*margin: auto;
+  width:80vw;*/
+  font-family: 'Abel', Serif;
+  /*text-align: center;*/
+  color: #f2efef;
+  background-color: #424040;
+  /*border-radius: 10%;*/
+  margin-top: 50px;
+}
+
+#bottom {
+  background-color: #1c1415;
+  color: #f2efef;
+  font-family: 'Abel', Serif;
+  text-align: center;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+#socialButton {
+  border-radius: 50%;
+  max-width: 15%;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  display:inline-block
+ /*left-margin: 20px;*/
+}
